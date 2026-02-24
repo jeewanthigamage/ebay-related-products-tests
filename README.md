@@ -1,12 +1,12 @@
 
 
 ```markdown
-## eBay Related Products Automation
+# eBay Related Products Automation
 
 ## Overview
 This project automates testing of the **Related Products** feature on eBay using Playwright.  
 The tests are derived from the manual test cases (TC-001 to TC-011) created earlier.
-
+```
 ---
 
 ## Setup
