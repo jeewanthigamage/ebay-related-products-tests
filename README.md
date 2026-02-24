@@ -213,15 +213,11 @@ npx playwright test tests/newFeature.spec.js
 ### Tests Fail with "Timeout"
 - Increase timeout in `playwright.config.js`
 - Check if the website is reachable
-- Use `--debug` mode to inspect
 
 ### Browser Not Found
 ```bash
 npx playwright install
 ```
-
-### Port Already in Use
-If running tests on CI and port conflicts occur, Playwright handles this automatically.
 
 ### Clear Cache
 
