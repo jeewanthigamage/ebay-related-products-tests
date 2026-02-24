@@ -11,8 +11,8 @@ The tests are derived from the manual test cases (TC-001 to TC-011) created earl
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd ebay-related-products-tests
+   git clone <repo-url>
+  
    ```
 2. Install dependencies:
    ```bash
