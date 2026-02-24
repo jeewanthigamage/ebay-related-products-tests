@@ -1,7 +1,7 @@
 
 
 ```markdown
-# eBay Related Products Automation
+## eBay Related Products Automation
 
 ## Overview
 This project automates testing of the **Related Products** feature on eBay using Playwright.  
